@@ -9,6 +9,9 @@ Syntax highlighting for JSX in Typescript.
 ![alt tag](./screen1.jpg)
 ![alt tag](./screen2.jpg)
 
+## Stephen's Difference
+
+`typescriptreact` instead of `typescript.tsx`.
 
 ## Installation
 
